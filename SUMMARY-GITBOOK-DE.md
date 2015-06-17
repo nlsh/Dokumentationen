@@ -7,3 +7,4 @@
 * [Anlage eines Gartens/ Abrechnung](de/garten.md)
 * Ausgabe der Auswertung im Frontend
 	* [Modul anlegen](de/modul.md)
+	* [Modul in Seite integrieren]()
