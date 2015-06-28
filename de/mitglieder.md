@@ -10,4 +10,6 @@ Dies ist darum so wichtig, da nur Mitglieder aus dieser Gruppe später für die 
 
 Sie wählen hier die Anrede für den späteren Rechnungstext und haben die Möglichkeit, einige Mitglieder generell von Pacht- oder Beitragszahlungen auszuschließen!
 
+**Achtung!!** Bitte auch die Zugangsdaten vergeben, da Sie ja hoffentlich alle Zugangsmöglichkeiten schützen werden.
+
 ![](img/mitglieder02.png)
