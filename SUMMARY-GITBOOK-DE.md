@@ -8,3 +8,4 @@
 * Ausgabe der Auswertung im Frontend
 	* [Modul anlegen](de/modul.md)
 	* [Modul in Seite integrieren](de/seiten-integration.md)
+	* [Fronend- Ausgabe](de/frontend.md)
