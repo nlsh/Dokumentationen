@@ -1,7 +1,7 @@
 ## Übersicht
 
 * [Installation](de/installation.md)
-* [Contao Official Demo](officialDemo.md)
+* [Contao Official Demo](de/officialDemo.md)
 * [Vereinsmitglieder anlegen](de/mitglieder.md)
 * [Einstellungen](de/setup.md)
 * [Stammdaten des Vereines anlegen](de/stammdatenVerein.md)
