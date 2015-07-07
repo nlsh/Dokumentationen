@@ -12,7 +12,7 @@ Danach unter `Inhalte -> Artikel` den Bearbeitungs- Stift drücken und einen neu
 
 ![](img/seiten-integrieren03.png)
 
-Dort jeztz ein neues Element erstellen.
+Dort jetzt ein neues Element erstellen.
 
 ![](img/seiten-integrieren04.png)
 
