@@ -12,5 +12,6 @@
 * Auswertung im Frontend
 	* [Übersicht Auswertungen](de/uebersichtAuswertung.md)
 	* [Rechnungsausgabe](de/rechnungsAusgabe.md)
+	* [Übergabe Finanzbuchhaltung](de/uebergabeFinanzbuchhaltung.md)
 * Testen/ Fehleranalyse/ Fehlermeldung
 	* [Contao Official Demo](de/officialDemo.md)
