@@ -1,7 +1,6 @@
 ## Übersicht
 
 * [Installation](de/installation.md)
-* [Contao Official Demo](de/officialDemo.md)
 * [Vereinsmitglieder anlegen](de/mitglieder.md)
 * [Einstellungen](de/setup.md)
 * [Stammdaten des Vereines anlegen](de/stammdatenVerein.md)
@@ -10,3 +9,7 @@
 	* [Modul anlegen](de/modul.md)
 	* [Modul in Seite integrieren](de/seiten-integration.md)
 	* [Fronend- Ausgabe](de/frontend.md)
+* Auswertung im Frontend
+	*  
+* Fehleranalyse/ Fehlermeldung
+	* [Contao Official Demo](de/officialDemo.md)

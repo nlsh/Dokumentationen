@@ -1,8 +1,18 @@
-## Themes/ Template *[Contao Official Demo](http://demo.contao.org/en/ "Contao Official Demo")*
+## Template *[Contao Official Demo](http://demo.contao.org/en/ "Contao Official Demo")*
 
-Um gleiche Voraussetzungen zu schaffen, benutze ich das offizielle Contao- Demo- Themes/ Template, um die Nachvollziehbarkeit von Fehlern einschränken zu können.
+Um gleiche Voraussetzungen für die Nachvollziehbarkeit von Fehlern zu schaffen, benutzt bitte das offizielle Contao- Demo- Themes- Template.
 
-Installiert wird dieses Themes/ Template über die Paketverwaltung des Composers. Danach die Installation von Contao aufrufen und das Template importieren.
+Testet bitte erst dort, ob der Fehler auch hier auftritt und meldet dann diesen unter [https://github.com/nlsh/nlsh_Kleingartenverwaltung/issues](https://github.com/nlsh/nlsh_Kleingartenverwaltung/issues)!!!
+
+Vorbereitet wir die Installation über die Paketverwaltung des Composers. Dieser installiert die entsprechende .sql- Datei in das `templates- Verzeichnis` Ihrer Contao- Installation.
 
 ![](img/anpassungOfficialDemo01.png)
+
+Danach die Installation von Contao unter `contao/install.php` aufrufen und das Template importieren.
+
+![](img/anpassungOfficialDemo02.png)
+
+Loggt euch dann wieder in das Bachend ein und unter Themes sollte jetzt das Demo- Theme erscheinen.
+
+![](img/anpassungOfficialDemo03.png)
 
