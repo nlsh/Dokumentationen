@@ -10,6 +10,6 @@
 	* [Modul in Seite integrieren](de/seiten-integration.md)
 	* [Fronend- Ausgabe](de/frontend.md)
 * Auswertung im Frontend
- 
+	* [Übersicht Auswertungen](de/uebersichtAuswertung.md)
 * Testen/ Fehleranalyse/ Fehlermeldung
 	* [Contao Official Demo](de/officialDemo.md)
