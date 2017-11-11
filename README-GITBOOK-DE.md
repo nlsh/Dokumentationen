@@ -1,4 +1,4 @@
-# nlsh_Kleingartenverwaltung
+# nlsh_Kleingartenverwaltung-bundle
 
 Diese Erweiterung ermöglicht es einem Kassierer, einen Gartenverein einfach abzurechnen. Es können Rechnungen geschrieben werden, die wiederum per Datentransfer in das Rechnungswesen übergeben werden können (im DATEV- Standardformat). Die Konten können selbst vorbelegt werden.
 
