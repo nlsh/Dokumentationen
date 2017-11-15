@@ -1,10 +1,22 @@
 # nlsh_Kleingartenverwaltung-bundle
+----------------------------------
 
-Diese Erweiterung ermöglicht es einem Kassierer, einen Gartenverein einfach abzurechnen. Es können Rechnungen geschrieben werden, die wiederum per Datentransfer in das Rechnungswesen übergeben werden können (im DATEV- Standardformat). Die Konten können selbst vorbelegt werden.
+Dieses Bundle fügt dem CMS [Contao](http://www.contao.org "http://www.contao.org") die Möglichkeit hinzu, die jährlich anfallenden Abrechnungen eines Kleingartenvereines zu erleichtern.
 
-Die Möglichkeiten der Abrechnung beschränken sich nicht nur auf Abrechnungen von Beiträgen, Pacht sowie Wasser- und Stromabrechnungen, sondern können um individuelle Abrechnungsmöglichkeiten je einzelner Gärten, sowie auch individueller Abrechnungsmöglichkeiten des gesamten Vereines erweitert werden.
+Diese Erweiterung soll hauptsächlich die Arbeit des Kassierers erleichtern!
 
-Die Mitglieder des Vereines werden über die Mitgliedergruppe und die Mitglieder verwaltet. Dadurch können auch Internetauftritte mit Zugangsberechtigungen aufgebaut werden, die sich in die Contao- Architektur einbinden.
+Mit dieser Erweiterung werden die Stammdaten des Gartenvereines, die Daten aller Gärten, sowie aller Mitglieder des Vereines je Jahr erfasst.
+Es können die Mitgliedsbeiträge, die Pacht, die Jahresverbräuche an Strom und Wasser, sowie individuelle Abrechnungseinheiten je Jahr für den gesamten Verein oder einzelnen Vereinsmitgliedern gegenüber in Rechnung gestellt werden.
+
+Ein Modul "Gesamtausgabe der Abrechnungsdaten"  je Jahr ist vorhanden.
+
+Für die zu erstellenden Rechnungen existiert ein Template zur Ausgabe der Rechnung.
+
+Die so erstellten Abrechnungen können im DATEV- Standardformat an eine Finanzbuchhaltungssoftware detailliert übergeben werden.
+Eine individuelle Vorbelegung der Konten in der Finanzbuchhaltung für die einzelnen, abgerechneten Posten ist dafür natürlich Pflicht!
+
+Die Mitglieder des Vereines werden über die Mitgliedergruppe und die Mitglieder verwaltet.
+Dadurch können die Internetauftritte mit Zugangsberechtigungen aufgebaut werden, die sich in die Contao- Architektur einbinden.
 
 {% include "SUMMARY-GITBOOK-DE.md" %}
 
